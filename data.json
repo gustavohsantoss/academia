@@ -1,0 +1,44 @@
+{
+  "members": [
+    {
+      "avatar_url": "http://google.com",
+      "name": "Mayk Brito",
+      "email": "asdsa@gmail.com",
+      "birth": 944956800000,
+      "gender": "M",
+      "blood": "B0",
+      "weight": "122",
+      "height": "190",
+      "id": 1
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1550345332-09e3ac987658?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "name": "Maria Eduarda Santos",
+      "birth": 910656000000,
+      "gender": "F",
+      "services": "musculação, crossfit",
+      "created_at": 1615573879004
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1543975200-8e313fb04fc7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "name": "Paulo Guina",
+      "birth": 597801600000,
+      "gender": "M",
+      "services": "musculação",
+      "created_at": 1615573910937
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1594737625785-a6cbdabd333c?ixid=MXwxMjA3fDF8MHxzZWFyY2h8OHx8Z3ltfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "name": "Pedro Martins",
+      "birth": 933984000000,
+      "gender": "M",
+      "services": "musculação, crossfit, pilates",
+      "created_at": 1615573961368
+    }
+  ]
+}
